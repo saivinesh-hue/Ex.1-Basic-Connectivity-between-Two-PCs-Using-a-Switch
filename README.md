@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 10/10/26
 
 # Objective
 
@@ -41,6 +41,11 @@ ________________________________________
 # Output (Screenshots / Ping Results)
 
 Insert screenshots showing ping success, configuration, or simulation results.
+
+<img width="1896" height="1078" alt="Screenshot 2026-10-10 102807" src="https://github.com/user-attachments/assets/d86444a3-09fe-4643-a255-8f80ea754fc8" />
+
+<img width="1911" height="1078" alt="Screenshot 2026-10-10 102739" src="https://github.com/user-attachments/assets/471c3ef0-6fdd-4efe-a37f-37c52e806fc9" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
