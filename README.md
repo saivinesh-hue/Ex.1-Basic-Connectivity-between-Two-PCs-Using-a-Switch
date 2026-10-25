@@ -48,6 +48,10 @@ Insert screenshots showing ping success, configuration, or simulation results.
 
 <img width="1896" height="1078" alt="Screenshot 2026-10-10 102807" src="https://github.com/user-attachments/assets/5c0f9d2d-06a1-4f70-b323-8a569642df04" />
 
+<img width="1917" height="1077" alt="Screenshot 2026-10-25 220202" src="https://github.com/user-attachments/assets/ffc113b6-a2e9-4ba6-8dd8-7f446317e195" />
+
+<img width="1900" height="1076" alt="Screenshot 2026-10-25 220247" src="https://github.com/user-attachments/assets/e970d05a-fa7c-4363-8aa8-6c7a5b9fe3d5" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
